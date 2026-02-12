@@ -7,7 +7,6 @@ CLI entry point that orchestrates the full pipeline:
 
 import argparse
 import os
-import sys
 
 import numpy as np
 import tensorflow as tf
