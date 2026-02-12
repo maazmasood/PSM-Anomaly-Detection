@@ -39,7 +39,7 @@ A hybrid deep learning framework for **robust unsupervised anomaly detection** i
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/PSM-Anomaly-Detection.git
+git clone https://github.com/maazmasood/PSM-Anomaly-Detection.git
 cd PSM-Anomaly-Detection
 
 # Create a virtual environment (recommended)
